@@ -1,4 +1,4 @@
-# ogcli-dif
+# ogcli-diff
 
 Script runs a diff between 2 ogcli templates. The script runs a diff regardless of the order of each config stanza.
 
